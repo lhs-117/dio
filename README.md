@@ -1,2 +1,2 @@
 # dio
-Atividades praticas da DIO
+Calculadora de Partidas Rankeadas
